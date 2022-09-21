@@ -1,2 +1,2 @@
 # TENET.jl
-A Julia temporal network library
+A Julia temporal network library (WIP)
